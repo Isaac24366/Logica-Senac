@@ -1,0 +1,112 @@
+/*Exercício 5*
+body, html{
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: url("https://th.bing.com/th/id/R.45e4f4f5cefae39ad2766eacf0c1754a?rik=HTw%2f2o6cUeYYgQ&pid=ImgRaw&r=0");
+}
+
+button{
+    padding: 20%;
+    border-radius: 100000px;
+    margin-right: 200px;
+    background-color: rgb(255, 130, 130);
+    backface-visibility: 0;
+}
+/*Fim 5*/
+
+/*Exercício 6*
+body, html{
+    background-image: url("img/ct.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button{
+    border-radius: 30px;
+    padding: 100px;
+    margin-left: 1000px;
+    margin-top: 400px;
+    background-color: rgb(255, 255, 255);
+    color:black
+}
+/*Fim 6*/
+
+/*Exercício 7*
+
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.yRx6FByVfMDl8l5H8qlARgHaEK?rs=1&pid=ImgDetMain");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 50dvh;
+}
+button{
+    font-size: 72px;
+    border-radius: 20px;
+    margin-left: 40%;
+}
+/*Fim 7*/
+
+/*Exercício 8*/
+body{
+    background-image: url("img/jogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    margin-left: 30%;
+    font-size: 127px;
+    border-radius: 10px;
+    position:static;
+}
+.palpite{
+    margin-left: 30%;
+    font-size: 50px;
+}
+.texto{
+    margin-left: 25%;
+    color: gray;
+    text-shadow: 3px 5px 5px black;
+    font-size: 150px;
+}
+.intro{
+    margin-left: 35%;
+    position: relative;
+    top: -100px;
+    font-style: italic;
+    color: white;
+    font-size: 40px;
+    text-shadow: 3px 3px 5px blueviolet;
+}
+.alerta{
+    margin-left: 30%;
+    font-size: 40px;
+    color: coral;
+    text-shadow: 5px 5px 5px purple;
+}
+.resposta{
+    margin-left: 30%;
+    font-size: 50px;
+    color: blue;
+    text-shadow: 5px 5px 5px rgb(255, 0, 255);
+    position: relative;
+    top: 100px;
+
+}
+.img{
+    margin-left: 28%;
+    width: 950px;
+    height: 450px;
+    display: flex;
+    opacity: 90%;
+    position: relative;
+    z-index: -1;
+    top: -470px
+}
