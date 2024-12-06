@@ -1,0 +1,47 @@
+body{
+    background-image: url("img/windows.jpg");
+    background-size: cover;
+}
+.btn{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+    margin-left: 40px;
+    top: -40px;
+    width: 750px;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    margin-left: 27%;
+    box-shadow: 3px 3px 5px black;
+}
+.img{
+    height: 660px;
+    width: 830px;
+    position: relative;
+    z-index: 0;
+    top: -580px;
+    box-shadow: 15px 15px 10px rgb(36, 87, 255);
+}
+.titulo{
+    margin-left: 22%;
+    font-size: 70px;
+    font-style: italic;
+    text-shadow: 3px 3px 7px blue;
+    color: white;
+    border-color: bisque;
+    position: relative;
+    z-index: 1;
+}
+.texto{
+    top: -40px;
+    margin-left: 28.5%;
+    font-size: 50px;
+    text-shadow: 3px 3px 5px rgb(255, 251, 0);
+    color: white;
+    position: relative;
+    z-index: 1;
+}
