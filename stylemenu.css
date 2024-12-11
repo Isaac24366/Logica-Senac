@@ -18,14 +18,14 @@ body{
     margin-left: 27%;
     box-shadow: 3px 3px 5px black;
 }
-.img{
+/*.img{
     height: 660px;
     width: 830px;
     position: relative;
     z-index: 0;
     top: -580px;
     box-shadow: 15px 15px 10px rgb(36, 87, 255);
-}
+}*/
 .titulo{
     margin-left: 22%;
     font-size: 70px;
